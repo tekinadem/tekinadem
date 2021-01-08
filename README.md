@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+    <a href="https://github.com/tekinadem?tab=repositories&language=python">
+        <img src="https://img.shields.io/badge/Fantastic%20data%20related%20title%20here-14354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
+</p>
+<br>
+<p align="center">
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=tekinadem&count_private=true&show_icons=true&theme=vue"/></a>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekinadem&theme=vue&hide=tex,java,css"/></a>
+</p>
