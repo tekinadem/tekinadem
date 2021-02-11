@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
     <a href="https://github.com/tekinadem?tab=repositories&language=python">
-        <img src="https://img.shields.io/badge/Fantastic%20data%20related%20title%20here-14354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
+        <img src="https://img.shields.io/badge/Non%20Progredi%20Est%20Regredi-14354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
 </p>
 <br>
 <p align="center">
